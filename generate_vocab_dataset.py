@@ -74,6 +74,20 @@ def generateAudio(word, index, final_audio_path):
 
     print(f'Audio saved for {level}-{category}-{index}.')
 
+# Chose to use either hiragana or word for pronunciation, depending
+#  on a set of rules
+def hiraganaOrWord(hiragana, word):
+    # If there is no hiragana, use the word
+    if not hiragana:
+        return word
+    # If hiragana has a "は", use word
+    elif "は" in hiragana:
+        return word
+    # Otherwise, use hiragana
+    else:
+        return hiragana
+
+
 # Convert to a soup object
 soup = BeautifulSoup(pageHtml, 'html.parser')
 # Find all the rows from the table
@@ -98,7 +112,8 @@ for row in rows:
 
         # Generate mp3 for reading if it doesn't already exist
         audioOutputPath = f'./audio/{level}/{category}/{level}-{category}-{index}.mp3'
-        generateAudio(hiragana if hiragana else word,index,audioOutputPath)
+        # Pass in the hiragana and word to determine which should be used for pronunciation
+        generateAudio(hiraganaOrWord(hiragana,word),index,audioOutputPath)
 
         # Generate and save the image for this word
         final_img_path = f'./imgs/{level}/{category}/{level}-{category}-{index}.jpg'
