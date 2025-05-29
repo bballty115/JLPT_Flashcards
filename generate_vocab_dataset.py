@@ -89,9 +89,11 @@ for row in rows:
         # Extract the word, reading, and meaning
         index = columns[0].get_text(strip=True)
         word = columns[1].get_text(strip=True)
-        # Attempt to extract hiragana, otherwise extract romanji
+        # Column 2 may provide hiragana in the paragraph element
         hiragana = columns[2].find('p').get_text(strip=True)
-        reading = hiragana if hiragana else columns[2].get_text(strip=True)
+        # If it does, it means the word has kanji and knowing the hirigana is useful
+        # Otherwise, the word has no kanji, and the word and the reading are the same
+        reading = hiragana if hiragana else word
         meaning = columns[3].get_text(strip=True)
 
         # Generate mp3 for reading if it doesn't already exist
@@ -104,6 +106,8 @@ for row in rows:
 
         # Append to the vocab list
         vocab_list.append({
+            'level': level,
+            'category': category,
             'index':index,
             'word': word,
             'reading': reading,

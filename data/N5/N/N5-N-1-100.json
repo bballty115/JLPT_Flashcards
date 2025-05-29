@@ -1,5 +1,7 @@
 [
     {
+        "level": "N5",
+        "category": "N",
         "index": "1",
         "word": "赤",
         "reading": "あか",
@@ -8,6 +10,8 @@
         "img": "./imgs/N5/N/N5-N-1.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "2",
         "word": "秋",
         "reading": "あき",
@@ -16,6 +20,8 @@
         "img": "./imgs/N5/N/N5-N-2.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "3",
         "word": "雨",
         "reading": "あめ",
@@ -24,6 +30,8 @@
         "img": "./imgs/N5/N/N5-N-3.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "4",
         "word": "飴",
         "reading": "あめ",
@@ -32,6 +40,8 @@
         "img": "./imgs/N5/N/N5-N-4.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "5",
         "word": "姉",
         "reading": "あね",
@@ -40,6 +50,8 @@
         "img": "./imgs/N5/N/N5-N-5.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "6",
         "word": "兄",
         "reading": "あに",
@@ -48,6 +60,8 @@
         "img": "./imgs/N5/N/N5-N-6.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "7",
         "word": "青",
         "reading": "あお",
@@ -56,14 +70,18 @@
         "img": "./imgs/N5/N/N5-N-7.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "8",
         "word": "アパート",
-        "reading": "apaato",
+        "reading": "アパート",
         "meaning": "apartment",
         "audio": "./audio/N5/N/N5-N-8.mp3",
         "img": "./imgs/N5/N/N5-N-8.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "9",
         "word": "朝",
         "reading": "あさ",
@@ -72,6 +90,8 @@
         "img": "./imgs/N5/N/N5-N-9.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "10",
         "word": "朝ご飯",
         "reading": "あさごはん",
@@ -80,6 +100,8 @@
         "img": "./imgs/N5/N/N5-N-10.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "11",
         "word": "明後日",
         "reading": "あさって",
@@ -88,6 +110,8 @@
         "img": "./imgs/N5/N/N5-N-11.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "12",
         "word": "足",
         "reading": "あし",
@@ -96,6 +120,8 @@
         "img": "./imgs/N5/N/N5-N-12.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "13",
         "word": "明日",
         "reading": "あした",
@@ -104,6 +130,8 @@
         "img": "./imgs/N5/N/N5-N-13.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "14",
         "word": "頭",
         "reading": "あたま",
@@ -112,6 +140,8 @@
         "img": "./imgs/N5/N/N5-N-14.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "15",
         "word": "後",
         "reading": "あと",
@@ -120,6 +150,8 @@
         "img": "./imgs/N5/N/N5-N-15.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "16",
         "word": "晩ご飯",
         "reading": "ばんごはん",
@@ -128,6 +160,8 @@
         "img": "./imgs/N5/N/N5-N-16.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "17",
         "word": "番号",
         "reading": "ばんごう",
@@ -136,30 +170,38 @@
         "img": "./imgs/N5/N/N5-N-17.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "18",
         "word": "バス",
-        "reading": "basu",
+        "reading": "バス",
         "meaning": "bus",
         "audio": "./audio/N5/N/N5-N-18.mp3",
         "img": "./imgs/N5/N/N5-N-18.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "19",
         "word": "バター",
-        "reading": "bataa",
+        "reading": "バター",
         "meaning": "butter​",
         "audio": "./audio/N5/N/N5-N-19.mp3",
         "img": "./imgs/N5/N/N5-N-19.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "20",
         "word": "ベッド",
-        "reading": "beddo",
+        "reading": "ベッド",
         "meaning": "bed",
         "audio": "./audio/N5/N/N5-N-20.mp3",
         "img": "./imgs/N5/N/N5-N-20.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "21",
         "word": "勉強",
         "reading": "べんきょう",
@@ -168,22 +210,28 @@
         "img": "./imgs/N5/N/N5-N-21.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "22",
         "word": "ボールペン",
-        "reading": "boorupen",
+        "reading": "ボールペン",
         "meaning": "ball-point pen",
         "audio": "./audio/N5/N/N5-N-22.mp3",
         "img": "./imgs/N5/N/N5-N-22.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "23",
         "word": "ボタン",
-        "reading": "botan",
+        "reading": "ボタン",
         "meaning": "button",
         "audio": "./audio/N5/N/N5-N-23.mp3",
         "img": "./imgs/N5/N/N5-N-23.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "24",
         "word": "帽子",
         "reading": "ぼうし",
@@ -192,6 +240,8 @@
         "img": "./imgs/N5/N/N5-N-24.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "25",
         "word": "文章",
         "reading": "ぶんしょう",
@@ -200,6 +250,8 @@
         "img": "./imgs/N5/N/N5-N-25.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "26",
         "word": "豚肉",
         "reading": "ぶたにく",
@@ -208,6 +260,8 @@
         "img": "./imgs/N5/N/N5-N-26.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "27",
         "word": "病院",
         "reading": "びょういん",
@@ -216,6 +270,8 @@
         "img": "./imgs/N5/N/N5-N-27.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "28",
         "word": "病気",
         "reading": "びょうき",
@@ -224,6 +280,8 @@
         "img": "./imgs/N5/N/N5-N-28.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "29",
         "word": "茶色",
         "reading": "ちゃいろ",
@@ -232,6 +290,8 @@
         "img": "./imgs/N5/N/N5-N-29.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "30",
         "word": "茶碗",
         "reading": "ちゃわん",
@@ -240,6 +300,8 @@
         "img": "./imgs/N5/N/N5-N-30.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "31",
         "word": "父",
         "reading": "ちち",
@@ -248,6 +310,8 @@
         "img": "./imgs/N5/N/N5-N-31.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "32",
         "word": "地下鉄",
         "reading": "ちかてつ",
@@ -256,6 +320,8 @@
         "img": "./imgs/N5/N/N5-N-32.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "33",
         "word": "地図",
         "reading": "ちず",
@@ -264,6 +330,8 @@
         "img": "./imgs/N5/N/N5-N-33.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "34",
         "word": "台所",
         "reading": "だいどころ",
@@ -272,6 +340,8 @@
         "img": "./imgs/N5/N/N5-N-34.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "35",
         "word": "大学",
         "reading": "だいがく",
@@ -280,6 +350,8 @@
         "img": "./imgs/N5/N/N5-N-35.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "36",
         "word": "出口",
         "reading": "でぐち",
@@ -288,6 +360,8 @@
         "img": "./imgs/N5/N/N5-N-36.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "37",
         "word": "電気",
         "reading": "でんき",
@@ -296,6 +370,8 @@
         "img": "./imgs/N5/N/N5-N-37.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "38",
         "word": "電車",
         "reading": "でんしゃ",
@@ -304,6 +380,8 @@
         "img": "./imgs/N5/N/N5-N-38.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "39",
         "word": "電話",
         "reading": "でんわ",
@@ -312,30 +390,38 @@
         "img": "./imgs/N5/N/N5-N-39.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "40",
         "word": "デパート",
-        "reading": "depaato",
+        "reading": "デパート",
         "meaning": "department store",
         "audio": "./audio/N5/N/N5-N-40.mp3",
         "img": "./imgs/N5/N/N5-N-40.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "41",
         "word": "ドア",
-        "reading": "doa",
+        "reading": "ドア",
         "meaning": "door",
         "audio": "./audio/N5/N/N5-N-41.mp3",
         "img": "./imgs/N5/N/N5-N-41.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "42",
         "word": "どなた",
-        "reading": "donata",
+        "reading": "どなた",
         "meaning": "who",
         "audio": "./audio/N5/N/N5-N-42.mp3",
         "img": "./imgs/N5/N/N5-N-42.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "43",
         "word": "動物",
         "reading": "どうぶつ",
@@ -344,6 +430,8 @@
         "img": "./imgs/N5/N/N5-N-43.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "44",
         "word": "土曜日",
         "reading": "どようび",
@@ -352,6 +440,8 @@
         "img": "./imgs/N5/N/N5-N-44.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "45",
         "word": "絵",
         "reading": "え",
@@ -360,14 +450,18 @@
         "img": "./imgs/N5/N/N5-N-45.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "46",
         "word": "ええ",
-        "reading": "ee",
+        "reading": "ええ",
         "meaning": "yes; that is correct; right",
         "audio": "./audio/N5/N/N5-N-46.mp3",
         "img": "./imgs/N5/N/N5-N-46.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "47",
         "word": "映画",
         "reading": "えいが",
@@ -376,6 +470,8 @@
         "img": "./imgs/N5/N/N5-N-47.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "48",
         "word": "映画館",
         "reading": "えいがかん",
@@ -384,6 +480,8 @@
         "img": "./imgs/N5/N/N5-N-48.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "49",
         "word": "英語",
         "reading": "えいご",
@@ -392,6 +490,8 @@
         "img": "./imgs/N5/N/N5-N-49.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "50",
         "word": "駅",
         "reading": "えき",
@@ -400,6 +500,8 @@
         "img": "./imgs/N5/N/N5-N-50.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "51",
         "word": "鉛筆",
         "reading": "えんぴつ",
@@ -408,30 +510,38 @@
         "img": "./imgs/N5/N/N5-N-51.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "52",
         "word": "エレベーター",
-        "reading": "erebeetaa",
+        "reading": "エレベーター",
         "meaning": "elevator",
         "audio": "./audio/N5/N/N5-N-52.mp3",
         "img": "./imgs/N5/N/N5-N-52.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "53",
         "word": "フィルム",
-        "reading": "firumu",
+        "reading": "フィルム",
         "meaning": "film",
         "audio": "./audio/N5/N/N5-N-53.mp3",
         "img": "./imgs/N5/N/N5-N-53.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "54",
         "word": "フォーク",
-        "reading": "fooku",
+        "reading": "フォーク",
         "meaning": "fork",
         "audio": "./audio/N5/N/N5-N-54.mp3",
         "img": "./imgs/N5/N/N5-N-54.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "55",
         "word": "服",
         "reading": "ふく",
@@ -440,6 +550,8 @@
         "img": "./imgs/N5/N/N5-N-55.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "56",
         "word": "二人",
         "reading": "ふたり",
@@ -448,6 +560,8 @@
         "img": "./imgs/N5/N/N5-N-56.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "57",
         "word": "二つ",
         "reading": "ふたつ",
@@ -456,6 +570,8 @@
         "img": "./imgs/N5/N/N5-N-57.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "58",
         "word": "二日",
         "reading": "ふつか",
@@ -464,6 +580,8 @@
         "img": "./imgs/N5/N/N5-N-58.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "59",
         "word": "封筒",
         "reading": "ふうとう",
@@ -472,6 +590,8 @@
         "img": "./imgs/N5/N/N5-N-59.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "60",
         "word": "冬",
         "reading": "ふゆ",
@@ -480,6 +600,8 @@
         "img": "./imgs/N5/N/N5-N-60.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "61",
         "word": "外国",
         "reading": "がいこく",
@@ -488,6 +610,8 @@
         "img": "./imgs/N5/N/N5-N-61.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "62",
         "word": "外国人",
         "reading": "がいこくじん",
@@ -496,6 +620,8 @@
         "img": "./imgs/N5/N/N5-N-62.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "63",
         "word": "学校",
         "reading": "がっこう",
@@ -504,6 +630,8 @@
         "img": "./imgs/N5/N/N5-N-63.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "64",
         "word": "学生",
         "reading": "がくせい",
@@ -512,6 +640,8 @@
         "img": "./imgs/N5/N/N5-N-64.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "65",
         "word": "玄関",
         "reading": "げんかん",
@@ -520,6 +650,8 @@
         "img": "./imgs/N5/N/N5-N-65.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "66",
         "word": "元気",
         "reading": "げんき",
@@ -528,6 +660,8 @@
         "img": "./imgs/N5/N/N5-N-66.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "67",
         "word": "月曜日",
         "reading": "げつようび",
@@ -536,6 +670,8 @@
         "img": "./imgs/N5/N/N5-N-67.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "68",
         "word": "銀行",
         "reading": "ぎんこう",
@@ -544,14 +680,18 @@
         "img": "./imgs/N5/N/N5-N-68.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "69",
         "word": "ギター",
-        "reading": "gitaa",
+        "reading": "ギター",
         "meaning": "guitar",
         "audio": "./audio/N5/N/N5-N-69.mp3",
         "img": "./imgs/N5/N/N5-N-69.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "70",
         "word": "五",
         "reading": "ご",
@@ -560,6 +700,8 @@
         "img": "./imgs/N5/N/N5-N-70.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "71",
         "word": "午後",
         "reading": "ごご",
@@ -568,6 +710,8 @@
         "img": "./imgs/N5/N/N5-N-71.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "72",
         "word": "ご飯",
         "reading": "ごはん",
@@ -576,6 +720,8 @@
         "img": "./imgs/N5/N/N5-N-72.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "73",
         "word": "午前",
         "reading": "ごぜん",
@@ -584,14 +730,18 @@
         "img": "./imgs/N5/N/N5-N-73.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "74",
         "word": "グラム",
-        "reading": "guramu",
+        "reading": "グラム",
         "meaning": "gram",
         "audio": "./audio/N5/N/N5-N-74.mp3",
         "img": "./imgs/N5/N/N5-N-74.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "75",
         "word": "牛肉",
         "reading": "ぎゅうにく",
@@ -600,6 +750,8 @@
         "img": "./imgs/N5/N/N5-N-75.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "76",
         "word": "牛乳",
         "reading": "ぎゅうにゅう",
@@ -608,6 +760,8 @@
         "img": "./imgs/N5/N/N5-N-76.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "77",
         "word": "歯",
         "reading": "は",
@@ -616,6 +770,8 @@
         "img": "./imgs/N5/N/N5-N-77.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "78",
         "word": "八",
         "reading": "はち",
@@ -624,6 +780,8 @@
         "img": "./imgs/N5/N/N5-N-78.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "79",
         "word": "葉書",
         "reading": "はがき",
@@ -632,6 +790,8 @@
         "img": "./imgs/N5/N/N5-N-79.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "80",
         "word": "母",
         "reading": "はは",
@@ -640,14 +800,18 @@
         "img": "./imgs/N5/N/N5-N-80.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "81",
         "word": "はい",
-        "reading": "hai",
+        "reading": "はい",
         "meaning": "yes; that is correct​",
         "audio": "./audio/N5/N/N5-N-81.mp3",
         "img": "./imgs/N5/N/N5-N-81.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "82",
         "word": "灰皿",
         "reading": "はいざら",
@@ -656,6 +820,8 @@
         "img": "./imgs/N5/N/N5-N-82.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "83",
         "word": "箱",
         "reading": "はこ",
@@ -664,6 +830,8 @@
         "img": "./imgs/N5/N/N5-N-83.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "84",
         "word": "半",
         "reading": "はん",
@@ -672,6 +840,8 @@
         "img": "./imgs/N5/N/N5-N-84.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "85",
         "word": "花",
         "reading": "はな",
@@ -680,6 +850,8 @@
         "img": "./imgs/N5/N/N5-N-85.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "86",
         "word": "鼻",
         "reading": "はな",
@@ -688,6 +860,8 @@
         "img": "./imgs/N5/N/N5-N-86.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "87",
         "word": "話",
         "reading": "はなし",
@@ -696,6 +870,8 @@
         "img": "./imgs/N5/N/N5-N-87.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "88",
         "word": "半分",
         "reading": "はんぶん",
@@ -704,14 +880,18 @@
         "img": "./imgs/N5/N/N5-N-88.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "89",
         "word": "ハンカチ",
-        "reading": "hankachi",
+        "reading": "ハンカチ",
         "meaning": "handkerchief​",
         "audio": "./audio/N5/N/N5-N-89.mp3",
         "img": "./imgs/N5/N/N5-N-89.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "90",
         "word": "晴れ",
         "reading": "はれ",
@@ -720,6 +900,8 @@
         "img": "./imgs/N5/N/N5-N-90.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "91",
         "word": "春",
         "reading": "はる",
@@ -728,6 +910,8 @@
         "img": "./imgs/N5/N/N5-N-91.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "92",
         "word": "箸",
         "reading": "はし",
@@ -736,6 +920,8 @@
         "img": "./imgs/N5/N/N5-N-92.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "93",
         "word": "橋",
         "reading": "はし",
@@ -744,6 +930,8 @@
         "img": "./imgs/N5/N/N5-N-93.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "94",
         "word": "二十歳",
         "reading": "はたち",
@@ -752,6 +940,8 @@
         "img": "./imgs/N5/N/N5-N-94.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "95",
         "word": "二十日",
         "reading": "はつか",
@@ -760,6 +950,8 @@
         "img": "./imgs/N5/N/N5-N-95.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "96",
         "word": "辺",
         "reading": "へん",
@@ -768,6 +960,8 @@
         "img": "./imgs/N5/N/N5-N-96.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "97",
         "word": "下手",
         "reading": "へた",
@@ -776,6 +970,8 @@
         "img": "./imgs/N5/N/N5-N-97.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "98",
         "word": "部屋",
         "reading": "へや",
@@ -784,6 +980,8 @@
         "img": "./imgs/N5/N/N5-N-98.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "99",
         "word": "左",
         "reading": "ひだり",
@@ -792,6 +990,8 @@
         "img": "./imgs/N5/N/N5-N-99.jpg"
     },
     {
+        "level": "N5",
+        "category": "N",
         "index": "100",
         "word": "東",
         "reading": "ひがし",
