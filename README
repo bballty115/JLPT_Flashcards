@@ -1,0 +1,14 @@
+To generate vocabulary list
+1. Get body data from url: https://jlptsensei.com/jlpt-n5-vocabulary-list/ ex
+2. Post the body data into jlpt.html
+3. Run the audio generation software (windows-cpu/run.exe)
+4. In generate_vocab_dataset.py, set the level and category
+  - Level: N5, N4, N3, N2, N1
+  - Category: N, V, A, AD, PNA, P, K
+5. Run the generate_vocab_data.py script
+6. Run the generate_index.py script to let site have access to new vocabulary
+7. Access the index.html file
+
+Todo:
+- Support for Kanji
+- Support for Grammar

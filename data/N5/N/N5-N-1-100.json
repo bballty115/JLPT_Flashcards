@@ -1,0 +1,802 @@
+[
+    {
+        "index": "1",
+        "word": "赤",
+        "reading": "あか",
+        "meaning": "red; crimson; scarlet​",
+        "audio": "./audio/N5/N/N5-N-1.mp3",
+        "img": "./imgs/N5/N/N5-N-1.jpg"
+    },
+    {
+        "index": "2",
+        "word": "秋",
+        "reading": "あき",
+        "meaning": "autumn; fall",
+        "audio": "./audio/N5/N/N5-N-2.mp3",
+        "img": "./imgs/N5/N/N5-N-2.jpg"
+    },
+    {
+        "index": "3",
+        "word": "雨",
+        "reading": "あめ",
+        "meaning": "rain",
+        "audio": "./audio/N5/N/N5-N-3.mp3",
+        "img": "./imgs/N5/N/N5-N-3.jpg"
+    },
+    {
+        "index": "4",
+        "word": "飴",
+        "reading": "あめ",
+        "meaning": "candy",
+        "audio": "./audio/N5/N/N5-N-4.mp3",
+        "img": "./imgs/N5/N/N5-N-4.jpg"
+    },
+    {
+        "index": "5",
+        "word": "姉",
+        "reading": "あね",
+        "meaning": "older sister; elder sister​",
+        "audio": "./audio/N5/N/N5-N-5.mp3",
+        "img": "./imgs/N5/N/N5-N-5.jpg"
+    },
+    {
+        "index": "6",
+        "word": "兄",
+        "reading": "あに",
+        "meaning": "elder brother; older brother​",
+        "audio": "./audio/N5/N/N5-N-6.mp3",
+        "img": "./imgs/N5/N/N5-N-6.jpg"
+    },
+    {
+        "index": "7",
+        "word": "青",
+        "reading": "あお",
+        "meaning": "blue; azure",
+        "audio": "./audio/N5/N/N5-N-7.mp3",
+        "img": "./imgs/N5/N/N5-N-7.jpg"
+    },
+    {
+        "index": "8",
+        "word": "アパート",
+        "reading": "apaato",
+        "meaning": "apartment",
+        "audio": "./audio/N5/N/N5-N-8.mp3",
+        "img": "./imgs/N5/N/N5-N-8.jpg"
+    },
+    {
+        "index": "9",
+        "word": "朝",
+        "reading": "あさ",
+        "meaning": "morning",
+        "audio": "./audio/N5/N/N5-N-9.mp3",
+        "img": "./imgs/N5/N/N5-N-9.jpg"
+    },
+    {
+        "index": "10",
+        "word": "朝ご飯",
+        "reading": "あさごはん",
+        "meaning": "breakfast",
+        "audio": "./audio/N5/N/N5-N-10.mp3",
+        "img": "./imgs/N5/N/N5-N-10.jpg"
+    },
+    {
+        "index": "11",
+        "word": "明後日",
+        "reading": "あさって",
+        "meaning": "day after tomorrow",
+        "audio": "./audio/N5/N/N5-N-11.mp3",
+        "img": "./imgs/N5/N/N5-N-11.jpg"
+    },
+    {
+        "index": "12",
+        "word": "足",
+        "reading": "あし",
+        "meaning": "foot; leg; paw; arm",
+        "audio": "./audio/N5/N/N5-N-12.mp3",
+        "img": "./imgs/N5/N/N5-N-12.jpg"
+    },
+    {
+        "index": "13",
+        "word": "明日",
+        "reading": "あした",
+        "meaning": "tomorrow",
+        "audio": "./audio/N5/N/N5-N-13.mp3",
+        "img": "./imgs/N5/N/N5-N-13.jpg"
+    },
+    {
+        "index": "14",
+        "word": "頭",
+        "reading": "あたま",
+        "meaning": "head",
+        "audio": "./audio/N5/N/N5-N-14.mp3",
+        "img": "./imgs/N5/N/N5-N-14.jpg"
+    },
+    {
+        "index": "15",
+        "word": "後",
+        "reading": "あと",
+        "meaning": "behind; after; remainder; left; also",
+        "audio": "./audio/N5/N/N5-N-15.mp3",
+        "img": "./imgs/N5/N/N5-N-15.jpg"
+    },
+    {
+        "index": "16",
+        "word": "晩ご飯",
+        "reading": "ばんごはん",
+        "meaning": "dinner; evening meal",
+        "audio": "./audio/N5/N/N5-N-16.mp3",
+        "img": "./imgs/N5/N/N5-N-16.jpg"
+    },
+    {
+        "index": "17",
+        "word": "番号",
+        "reading": "ばんごう",
+        "meaning": "number",
+        "audio": "./audio/N5/N/N5-N-17.mp3",
+        "img": "./imgs/N5/N/N5-N-17.jpg"
+    },
+    {
+        "index": "18",
+        "word": "バス",
+        "reading": "basu",
+        "meaning": "bus",
+        "audio": "./audio/N5/N/N5-N-18.mp3",
+        "img": "./imgs/N5/N/N5-N-18.jpg"
+    },
+    {
+        "index": "19",
+        "word": "バター",
+        "reading": "bataa",
+        "meaning": "butter​",
+        "audio": "./audio/N5/N/N5-N-19.mp3",
+        "img": "./imgs/N5/N/N5-N-19.jpg"
+    },
+    {
+        "index": "20",
+        "word": "ベッド",
+        "reading": "beddo",
+        "meaning": "bed",
+        "audio": "./audio/N5/N/N5-N-20.mp3",
+        "img": "./imgs/N5/N/N5-N-20.jpg"
+    },
+    {
+        "index": "21",
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "to study",
+        "audio": "./audio/N5/N/N5-N-21.mp3",
+        "img": "./imgs/N5/N/N5-N-21.jpg"
+    },
+    {
+        "index": "22",
+        "word": "ボールペン",
+        "reading": "boorupen",
+        "meaning": "ball-point pen",
+        "audio": "./audio/N5/N/N5-N-22.mp3",
+        "img": "./imgs/N5/N/N5-N-22.jpg"
+    },
+    {
+        "index": "23",
+        "word": "ボタン",
+        "reading": "botan",
+        "meaning": "button",
+        "audio": "./audio/N5/N/N5-N-23.mp3",
+        "img": "./imgs/N5/N/N5-N-23.jpg"
+    },
+    {
+        "index": "24",
+        "word": "帽子",
+        "reading": "ぼうし",
+        "meaning": "hat; cap",
+        "audio": "./audio/N5/N/N5-N-24.mp3",
+        "img": "./imgs/N5/N/N5-N-24.jpg"
+    },
+    {
+        "index": "25",
+        "word": "文章",
+        "reading": "ぶんしょう",
+        "meaning": "sentence",
+        "audio": "./audio/N5/N/N5-N-25.mp3",
+        "img": "./imgs/N5/N/N5-N-25.jpg"
+    },
+    {
+        "index": "26",
+        "word": "豚肉",
+        "reading": "ぶたにく",
+        "meaning": "pork",
+        "audio": "./audio/N5/N/N5-N-26.mp3",
+        "img": "./imgs/N5/N/N5-N-26.jpg"
+    },
+    {
+        "index": "27",
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": "hospital",
+        "audio": "./audio/N5/N/N5-N-27.mp3",
+        "img": "./imgs/N5/N/N5-N-27.jpg"
+    },
+    {
+        "index": "28",
+        "word": "病気",
+        "reading": "びょうき",
+        "meaning": "illness; disease; sickness",
+        "audio": "./audio/N5/N/N5-N-28.mp3",
+        "img": "./imgs/N5/N/N5-N-28.jpg"
+    },
+    {
+        "index": "29",
+        "word": "茶色",
+        "reading": "ちゃいろ",
+        "meaning": "brown",
+        "audio": "./audio/N5/N/N5-N-29.mp3",
+        "img": "./imgs/N5/N/N5-N-29.jpg"
+    },
+    {
+        "index": "30",
+        "word": "茶碗",
+        "reading": "ちゃわん",
+        "meaning": "rice bowl; tea cup; teacup",
+        "audio": "./audio/N5/N/N5-N-30.mp3",
+        "img": "./imgs/N5/N/N5-N-30.jpg"
+    },
+    {
+        "index": "31",
+        "word": "父",
+        "reading": "ちち",
+        "meaning": "father",
+        "audio": "./audio/N5/N/N5-N-31.mp3",
+        "img": "./imgs/N5/N/N5-N-31.jpg"
+    },
+    {
+        "index": "32",
+        "word": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "subway; underground train",
+        "audio": "./audio/N5/N/N5-N-32.mp3",
+        "img": "./imgs/N5/N/N5-N-32.jpg"
+    },
+    {
+        "index": "33",
+        "word": "地図",
+        "reading": "ちず",
+        "meaning": "map",
+        "audio": "./audio/N5/N/N5-N-33.mp3",
+        "img": "./imgs/N5/N/N5-N-33.jpg"
+    },
+    {
+        "index": "34",
+        "word": "台所",
+        "reading": "だいどころ",
+        "meaning": "kitchen",
+        "audio": "./audio/N5/N/N5-N-34.mp3",
+        "img": "./imgs/N5/N/N5-N-34.jpg"
+    },
+    {
+        "index": "35",
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "university; college",
+        "audio": "./audio/N5/N/N5-N-35.mp3",
+        "img": "./imgs/N5/N/N5-N-35.jpg"
+    },
+    {
+        "index": "36",
+        "word": "出口",
+        "reading": "でぐち",
+        "meaning": "exit; gateway; way out",
+        "audio": "./audio/N5/N/N5-N-36.mp3",
+        "img": "./imgs/N5/N/N5-N-36.jpg"
+    },
+    {
+        "index": "37",
+        "word": "電気",
+        "reading": "でんき",
+        "meaning": "electricity",
+        "audio": "./audio/N5/N/N5-N-37.mp3",
+        "img": "./imgs/N5/N/N5-N-37.jpg"
+    },
+    {
+        "index": "38",
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "train; electric train",
+        "audio": "./audio/N5/N/N5-N-38.mp3",
+        "img": "./imgs/N5/N/N5-N-38.jpg"
+    },
+    {
+        "index": "39",
+        "word": "電話",
+        "reading": "でんわ",
+        "meaning": "telephone (call / device)l; phone call",
+        "audio": "./audio/N5/N/N5-N-39.mp3",
+        "img": "./imgs/N5/N/N5-N-39.jpg"
+    },
+    {
+        "index": "40",
+        "word": "デパート",
+        "reading": "depaato",
+        "meaning": "department store",
+        "audio": "./audio/N5/N/N5-N-40.mp3",
+        "img": "./imgs/N5/N/N5-N-40.jpg"
+    },
+    {
+        "index": "41",
+        "word": "ドア",
+        "reading": "doa",
+        "meaning": "door",
+        "audio": "./audio/N5/N/N5-N-41.mp3",
+        "img": "./imgs/N5/N/N5-N-41.jpg"
+    },
+    {
+        "index": "42",
+        "word": "どなた",
+        "reading": "donata",
+        "meaning": "who",
+        "audio": "./audio/N5/N/N5-N-42.mp3",
+        "img": "./imgs/N5/N/N5-N-42.jpg"
+    },
+    {
+        "index": "43",
+        "word": "動物",
+        "reading": "どうぶつ",
+        "meaning": "animal",
+        "audio": "./audio/N5/N/N5-N-43.mp3",
+        "img": "./imgs/N5/N/N5-N-43.jpg"
+    },
+    {
+        "index": "44",
+        "word": "土曜日",
+        "reading": "どようび",
+        "meaning": "Saturday",
+        "audio": "./audio/N5/N/N5-N-44.mp3",
+        "img": "./imgs/N5/N/N5-N-44.jpg"
+    },
+    {
+        "index": "45",
+        "word": "絵",
+        "reading": "え",
+        "meaning": "picture",
+        "audio": "./audio/N5/N/N5-N-45.mp3",
+        "img": "./imgs/N5/N/N5-N-45.jpg"
+    },
+    {
+        "index": "46",
+        "word": "ええ",
+        "reading": "ee",
+        "meaning": "yes; that is correct; right",
+        "audio": "./audio/N5/N/N5-N-46.mp3",
+        "img": "./imgs/N5/N/N5-N-46.jpg"
+    },
+    {
+        "index": "47",
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": "movie; film",
+        "audio": "./audio/N5/N/N5-N-47.mp3",
+        "img": "./imgs/N5/N/N5-N-47.jpg"
+    },
+    {
+        "index": "48",
+        "word": "映画館",
+        "reading": "えいがかん",
+        "meaning": "movie theater; cinema",
+        "audio": "./audio/N5/N/N5-N-48.mp3",
+        "img": "./imgs/N5/N/N5-N-48.jpg"
+    },
+    {
+        "index": "49",
+        "word": "英語",
+        "reading": "えいご",
+        "meaning": "English language",
+        "audio": "./audio/N5/N/N5-N-49.mp3",
+        "img": "./imgs/N5/N/N5-N-49.jpg"
+    },
+    {
+        "index": "50",
+        "word": "駅",
+        "reading": "えき",
+        "meaning": "station",
+        "audio": "./audio/N5/N/N5-N-50.mp3",
+        "img": "./imgs/N5/N/N5-N-50.jpg"
+    },
+    {
+        "index": "51",
+        "word": "鉛筆",
+        "reading": "えんぴつ",
+        "meaning": "pencil",
+        "audio": "./audio/N5/N/N5-N-51.mp3",
+        "img": "./imgs/N5/N/N5-N-51.jpg"
+    },
+    {
+        "index": "52",
+        "word": "エレベーター",
+        "reading": "erebeetaa",
+        "meaning": "elevator",
+        "audio": "./audio/N5/N/N5-N-52.mp3",
+        "img": "./imgs/N5/N/N5-N-52.jpg"
+    },
+    {
+        "index": "53",
+        "word": "フィルム",
+        "reading": "firumu",
+        "meaning": "film",
+        "audio": "./audio/N5/N/N5-N-53.mp3",
+        "img": "./imgs/N5/N/N5-N-53.jpg"
+    },
+    {
+        "index": "54",
+        "word": "フォーク",
+        "reading": "fooku",
+        "meaning": "fork",
+        "audio": "./audio/N5/N/N5-N-54.mp3",
+        "img": "./imgs/N5/N/N5-N-54.jpg"
+    },
+    {
+        "index": "55",
+        "word": "服",
+        "reading": "ふく",
+        "meaning": "clothes",
+        "audio": "./audio/N5/N/N5-N-55.mp3",
+        "img": "./imgs/N5/N/N5-N-55.jpg"
+    },
+    {
+        "index": "56",
+        "word": "二人",
+        "reading": "ふたり",
+        "meaning": "two people; pair; couple",
+        "audio": "./audio/N5/N/N5-N-56.mp3",
+        "img": "./imgs/N5/N/N5-N-56.jpg"
+    },
+    {
+        "index": "57",
+        "word": "二つ",
+        "reading": "ふたつ",
+        "meaning": "two; 2",
+        "audio": "./audio/N5/N/N5-N-57.mp3",
+        "img": "./imgs/N5/N/N5-N-57.jpg"
+    },
+    {
+        "index": "58",
+        "word": "二日",
+        "reading": "ふつか",
+        "meaning": "the second day of the month / 2 days",
+        "audio": "./audio/N5/N/N5-N-58.mp3",
+        "img": "./imgs/N5/N/N5-N-58.jpg"
+    },
+    {
+        "index": "59",
+        "word": "封筒",
+        "reading": "ふうとう",
+        "meaning": "envelope",
+        "audio": "./audio/N5/N/N5-N-59.mp3",
+        "img": "./imgs/N5/N/N5-N-59.jpg"
+    },
+    {
+        "index": "60",
+        "word": "冬",
+        "reading": "ふゆ",
+        "meaning": "winter",
+        "audio": "./audio/N5/N/N5-N-60.mp3",
+        "img": "./imgs/N5/N/N5-N-60.jpg"
+    },
+    {
+        "index": "61",
+        "word": "外国",
+        "reading": "がいこく",
+        "meaning": "foreign country",
+        "audio": "./audio/N5/N/N5-N-61.mp3",
+        "img": "./imgs/N5/N/N5-N-61.jpg"
+    },
+    {
+        "index": "62",
+        "word": "外国人",
+        "reading": "がいこくじん",
+        "meaning": "foreigner; foreign citizen; foreign national; alien;\n                non-Japanese",
+        "audio": "./audio/N5/N/N5-N-62.mp3",
+        "img": "./imgs/N5/N/N5-N-62.jpg"
+    },
+    {
+        "index": "63",
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "school",
+        "audio": "./audio/N5/N/N5-N-63.mp3",
+        "img": "./imgs/N5/N/N5-N-63.jpg"
+    },
+    {
+        "index": "64",
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": "student",
+        "audio": "./audio/N5/N/N5-N-64.mp3",
+        "img": "./imgs/N5/N/N5-N-64.jpg"
+    },
+    {
+        "index": "65",
+        "word": "玄関",
+        "reading": "げんかん",
+        "meaning": "entrance",
+        "audio": "./audio/N5/N/N5-N-65.mp3",
+        "img": "./imgs/N5/N/N5-N-65.jpg"
+    },
+    {
+        "index": "66",
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "lively; full of spirit; energetic; healthy",
+        "audio": "./audio/N5/N/N5-N-66.mp3",
+        "img": "./imgs/N5/N/N5-N-66.jpg"
+    },
+    {
+        "index": "67",
+        "word": "月曜日",
+        "reading": "げつようび",
+        "meaning": "Monday",
+        "audio": "./audio/N5/N/N5-N-67.mp3",
+        "img": "./imgs/N5/N/N5-N-67.jpg"
+    },
+    {
+        "index": "68",
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "bank",
+        "audio": "./audio/N5/N/N5-N-68.mp3",
+        "img": "./imgs/N5/N/N5-N-68.jpg"
+    },
+    {
+        "index": "69",
+        "word": "ギター",
+        "reading": "gitaa",
+        "meaning": "guitar",
+        "audio": "./audio/N5/N/N5-N-69.mp3",
+        "img": "./imgs/N5/N/N5-N-69.jpg"
+    },
+    {
+        "index": "70",
+        "word": "五",
+        "reading": "ご",
+        "meaning": "five; 5",
+        "audio": "./audio/N5/N/N5-N-70.mp3",
+        "img": "./imgs/N5/N/N5-N-70.jpg"
+    },
+    {
+        "index": "71",
+        "word": "午後",
+        "reading": "ごご",
+        "meaning": "afternoon; p.m.",
+        "audio": "./audio/N5/N/N5-N-71.mp3",
+        "img": "./imgs/N5/N/N5-N-71.jpg"
+    },
+    {
+        "index": "72",
+        "word": "ご飯",
+        "reading": "ごはん",
+        "meaning": "cooked rice, meal",
+        "audio": "./audio/N5/N/N5-N-72.mp3",
+        "img": "./imgs/N5/N/N5-N-72.jpg"
+    },
+    {
+        "index": "73",
+        "word": "午前",
+        "reading": "ごぜん",
+        "meaning": "morning; a.m.",
+        "audio": "./audio/N5/N/N5-N-73.mp3",
+        "img": "./imgs/N5/N/N5-N-73.jpg"
+    },
+    {
+        "index": "74",
+        "word": "グラム",
+        "reading": "guramu",
+        "meaning": "gram",
+        "audio": "./audio/N5/N/N5-N-74.mp3",
+        "img": "./imgs/N5/N/N5-N-74.jpg"
+    },
+    {
+        "index": "75",
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "beef",
+        "audio": "./audio/N5/N/N5-N-75.mp3",
+        "img": "./imgs/N5/N/N5-N-75.jpg"
+    },
+    {
+        "index": "76",
+        "word": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "meaning": "(cow's) milk",
+        "audio": "./audio/N5/N/N5-N-76.mp3",
+        "img": "./imgs/N5/N/N5-N-76.jpg"
+    },
+    {
+        "index": "77",
+        "word": "歯",
+        "reading": "は",
+        "meaning": "tooth",
+        "audio": "./audio/N5/N/N5-N-77.mp3",
+        "img": "./imgs/N5/N/N5-N-77.jpg"
+    },
+    {
+        "index": "78",
+        "word": "八",
+        "reading": "はち",
+        "meaning": "eight: 8",
+        "audio": "./audio/N5/N/N5-N-78.mp3",
+        "img": "./imgs/N5/N/N5-N-78.jpg"
+    },
+    {
+        "index": "79",
+        "word": "葉書",
+        "reading": "はがき",
+        "meaning": "postcard",
+        "audio": "./audio/N5/N/N5-N-79.mp3",
+        "img": "./imgs/N5/N/N5-N-79.jpg"
+    },
+    {
+        "index": "80",
+        "word": "母",
+        "reading": "はは",
+        "meaning": "mother",
+        "audio": "./audio/N5/N/N5-N-80.mp3",
+        "img": "./imgs/N5/N/N5-N-80.jpg"
+    },
+    {
+        "index": "81",
+        "word": "はい",
+        "reading": "hai",
+        "meaning": "yes; that is correct​",
+        "audio": "./audio/N5/N/N5-N-81.mp3",
+        "img": "./imgs/N5/N/N5-N-81.jpg"
+    },
+    {
+        "index": "82",
+        "word": "灰皿",
+        "reading": "はいざら",
+        "meaning": "ashtray",
+        "audio": "./audio/N5/N/N5-N-82.mp3",
+        "img": "./imgs/N5/N/N5-N-82.jpg"
+    },
+    {
+        "index": "83",
+        "word": "箱",
+        "reading": "はこ",
+        "meaning": "box; crate",
+        "audio": "./audio/N5/N/N5-N-83.mp3",
+        "img": "./imgs/N5/N/N5-N-83.jpg"
+    },
+    {
+        "index": "84",
+        "word": "半",
+        "reading": "はん",
+        "meaning": "half; semi-; half-past",
+        "audio": "./audio/N5/N/N5-N-84.mp3",
+        "img": "./imgs/N5/N/N5-N-84.jpg"
+    },
+    {
+        "index": "85",
+        "word": "花",
+        "reading": "はな",
+        "meaning": "flower",
+        "audio": "./audio/N5/N/N5-N-85.mp3",
+        "img": "./imgs/N5/N/N5-N-85.jpg"
+    },
+    {
+        "index": "86",
+        "word": "鼻",
+        "reading": "はな",
+        "meaning": "nose",
+        "audio": "./audio/N5/N/N5-N-86.mp3",
+        "img": "./imgs/N5/N/N5-N-86.jpg"
+    },
+    {
+        "index": "87",
+        "word": "話",
+        "reading": "はなし",
+        "meaning": "talk; speech; chat; conversation​",
+        "audio": "./audio/N5/N/N5-N-87.mp3",
+        "img": "./imgs/N5/N/N5-N-87.jpg"
+    },
+    {
+        "index": "88",
+        "word": "半分",
+        "reading": "はんぶん",
+        "meaning": "half",
+        "audio": "./audio/N5/N/N5-N-88.mp3",
+        "img": "./imgs/N5/N/N5-N-88.jpg"
+    },
+    {
+        "index": "89",
+        "word": "ハンカチ",
+        "reading": "hankachi",
+        "meaning": "handkerchief​",
+        "audio": "./audio/N5/N/N5-N-89.mp3",
+        "img": "./imgs/N5/N/N5-N-89.jpg"
+    },
+    {
+        "index": "90",
+        "word": "晴れ",
+        "reading": "はれ",
+        "meaning": "clear weather",
+        "audio": "./audio/N5/N/N5-N-90.mp3",
+        "img": "./imgs/N5/N/N5-N-90.jpg"
+    },
+    {
+        "index": "91",
+        "word": "春",
+        "reading": "はる",
+        "meaning": "spring; springtime",
+        "audio": "./audio/N5/N/N5-N-91.mp3",
+        "img": "./imgs/N5/N/N5-N-91.jpg"
+    },
+    {
+        "index": "92",
+        "word": "箸",
+        "reading": "はし",
+        "meaning": "chopsticks",
+        "audio": "./audio/N5/N/N5-N-92.mp3",
+        "img": "./imgs/N5/N/N5-N-92.jpg"
+    },
+    {
+        "index": "93",
+        "word": "橋",
+        "reading": "はし",
+        "meaning": "bridge",
+        "audio": "./audio/N5/N/N5-N-93.mp3",
+        "img": "./imgs/N5/N/N5-N-93.jpg"
+    },
+    {
+        "index": "94",
+        "word": "二十歳",
+        "reading": "はたち",
+        "meaning": "20 years old; twenty years old",
+        "audio": "./audio/N5/N/N5-N-94.mp3",
+        "img": "./imgs/N5/N/N5-N-94.jpg"
+    },
+    {
+        "index": "95",
+        "word": "二十日",
+        "reading": "はつか",
+        "meaning": "twentieth day of the month / 20 days",
+        "audio": "./audio/N5/N/N5-N-95.mp3",
+        "img": "./imgs/N5/N/N5-N-95.jpg"
+    },
+    {
+        "index": "96",
+        "word": "辺",
+        "reading": "へん",
+        "meaning": "area",
+        "audio": "./audio/N5/N/N5-N-96.mp3",
+        "img": "./imgs/N5/N/N5-N-96.jpg"
+    },
+    {
+        "index": "97",
+        "word": "下手",
+        "reading": "へた",
+        "meaning": "unskillful; poor; awkward​",
+        "audio": "./audio/N5/N/N5-N-97.mp3",
+        "img": "./imgs/N5/N/N5-N-97.jpg"
+    },
+    {
+        "index": "98",
+        "word": "部屋",
+        "reading": "へや",
+        "meaning": "room",
+        "audio": "./audio/N5/N/N5-N-98.mp3",
+        "img": "./imgs/N5/N/N5-N-98.jpg"
+    },
+    {
+        "index": "99",
+        "word": "左",
+        "reading": "ひだり",
+        "meaning": "left; left hand side",
+        "audio": "./audio/N5/N/N5-N-99.mp3",
+        "img": "./imgs/N5/N/N5-N-99.jpg"
+    },
+    {
+        "index": "100",
+        "word": "東",
+        "reading": "ひがし",
+        "meaning": "east",
+        "audio": "./audio/N5/N/N5-N-100.mp3",
+        "img": "./imgs/N5/N/N5-N-100.jpg"
+    }
+]
